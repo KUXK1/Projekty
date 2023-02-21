@@ -10,4 +10,5 @@ Projekt został wykonany w unity jako zaliczenie całorocznych praktyk szkolnych
 
 <h3>Strona internetowa</h3>
 
+<img src="https://user-images.githubusercontent.com/99731335/220346685-13daa856-fec1-4a55-9794-b119408bcccc.png">
 W foldrze strona znajduje się strona internetowa którą za zadanie miałem wykonać. Strona nie jest dokończona, nie ma żadnego skryptu js.
